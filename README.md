@@ -1,6 +1,7 @@
 ## Financial ratio performance analysis - Netflix and Disney
 
 Tech Stack: Excel
+
 Core Focus: Cash Conversion & Earnings Quality Analysis
 
 
