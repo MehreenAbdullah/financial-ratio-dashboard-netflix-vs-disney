@@ -1,1 +1,1 @@
-## Financial performance ratio analysis - Netflix and Disney
+## Financial ratio performance analysis - Netflix and Disney
