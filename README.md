@@ -5,9 +5,11 @@ Tech Stack: Excel
 Core Focus: Cash Conversion & Earnings Quality Analysis
 
 
+
 Project Overview
 ----
 The project includes structured five-year ratio calculations and a dashboard built in Excel. Key metrics analyzed include Operating Margin, Net Profit Margin, Free Cash Flow Margin, Operating Cash Flow Margin, CFO/Net Income (earnings quality), and Cash Conversion Ratio. Each ratio is evaluated directionally (improving, volatile, stabilizing) and benchmarked against reference thresholds relevant for subscription and service-based businesses.
+
 
 
 Project Structure
@@ -26,6 +28,7 @@ The project includes structured five-year ratio calculations and a dashboard bui
 Five-year trend analysis (2021–2025) is included for each ratio
 
 
+
 Excel Dashboard display
 ----
 The dashboard visually presents:
@@ -41,9 +44,12 @@ Profitability → Cash Flow → Earnings Quality
 
 
 
+
 Key Findings
 ---
 The analysis shows that Netflix delivers stronger margin efficiency relative to its revenue base, supported by its asset-light subscription-driven model and scalable digital infrastructure. Disney generates significantly higher absolute revenue but operates within a capital-intensive, diversified structure that affects margin stability and cash conversion dynamics. Netflix demonstrates improving alignment between operating income and operating cash flow, while Disney consistently generates operating cash flow above net income, though with greater volatility due to reinvestment cycles and working capital movements. The structural differences between a focused OTT model and a diversified conglomerate are clearly reflected in profitability dispersion and cash flow behavior...
+
+
 
 Conclusion
 ---
